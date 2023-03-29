@@ -1,4 +1,4 @@
-# Seattle, WA Rain vs. St. Louis, MO Rain
+# Seattle, Washington Rain vs. St. Louis, Missouri Rain
 
 # What is the purpose of the project?
 - The purpose of the project is to answer the question of whether it rains more in Seattle, WA or St. Louis, MO. Dr. Fischer's parents believe that it rains too much in Seattle and using the provided data sets listed below we are to see if their statement is true or false.
