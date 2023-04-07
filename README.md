@@ -8,3 +8,5 @@
 - The data sets come from this website: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND. The website allows you to find past weather and climate data within a specific date range and specific search term like a location. 
 
 # Data Preparation
+- What steps did I take to prepare a cleaned up version of the data sets from the website above? 
+1. 
