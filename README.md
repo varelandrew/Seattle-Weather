@@ -24,6 +24,10 @@ Here you can find the cleaned csv file: https://github.com/varelandrew/Seattle-W
 
 # Data Analysis
 - What steps did I take to analyze the cleaned up data set from the previous steps above?
-1. 
+1. I first imported necessary librarys and loaded the cleaned data set.
+2. I then reviewed the contents of the data set to familiarize myself with the data
+3. To analyze the data I needed to state a few questions that needed to be answered.
+4. Once I figured out what questions needed to be answered I proceeded to plot the data into different visualizations that helped me answer my previous questions.
+5. I was then able to finalize my results for a future communication assignment and write a quick conclusion based on my findings.
 
 Here you can find the python file that follows these steps I listed: [Data Analysis File](https://github.com/varelandrew/Seattle-Weather/blob/main/Andrew_Varela_DATA_3320_Seattle_St_Louis_Analysis_Template.ipynb)
