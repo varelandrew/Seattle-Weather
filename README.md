@@ -21,3 +21,5 @@
 Here you can find the python file that follows these steps I listed: https://github.com/varelandrew/Seattle-Weather/blob/main/Andrew%20Varela%20DATA%203320%20Seattle%20St.%20Louis%20Data%20Preparation%20Template.ipynb
 
 Here you can find the cleaned csv file: https://github.com/varelandrew/Seattle-Weather/blob/main/clean_seattle_stl_weather.csv
+
+# Data Analysis
