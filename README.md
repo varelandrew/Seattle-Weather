@@ -18,8 +18,12 @@
 7. Finally I dealt with missing values by adding a number out of 365 that coorelates to each row, as well as a number for month and year for each row. I also found the mean precipitation over the years for each day so I could fill the missing values with the mean value so there were no values missing.
 8. I then exported the data into a csv file.
 
-Here you can find the python file that follows these steps I listed: https://github.com/varelandrew/Seattle-Weather/blob/main/Andrew%20Varela%20DATA%203320%20Seattle%20St.%20Louis%20Data%20Preparation%20Template.ipynb
+Here you can find the python file that follows these steps I listed: [Data Preparation File](https://github.com/varelandrew/Seattle-Weather/blob/main/Andrew%20Varela%20DATA%203320%20Seattle%20St.%20Louis%20Data%20Preparation%20Template.ipynb)
 
 Here you can find the cleaned csv file: https://github.com/varelandrew/Seattle-Weather/blob/main/clean_seattle_stl_weather.csv
 
 # Data Analysis
+- What steps did I take to analyze the cleaned up data set from the previous steps above?
+1. 
+
+Here you can find the python file that follows these steps I listed: [Data Analysis File](https://github.com/varelandrew/Seattle-Weather/blob/main/Andrew_Varela_DATA_3320_Seattle_St_Louis_Analysis_Template.ipynb)
