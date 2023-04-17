@@ -1,8 +1,5 @@
 # Seattle, Washington Rain vs. St. Louis, Missouri Rain
 
-X REMOVE # What is the purpose of the project?
-- The purpose of the project is to answer the question of whether it rains more in Seattle, WA or St. Louis, MO. Dr. Fischer's parents believe that it rains too much in Seattle and using the provided data sets listed below we are to see if their statement is true or false.
-
 # Description
 - The purpose of the project is to answer the question of whether it rains more in Seattle, WA or St. Louis, MO. Dr. Fischer's parents believe that it rains too much in Seattle and using the provided data sets listed below we are to see if their statement is true or false. I will be using python to perform operations that help me towards answering the above question. This includes cleaning up the provided data, and creating visuals to deduce which city has more rain. 
 - General conclusions that I discovered from performing the above methods consist of defining what "more rain" means, cleaning up the data sets by removing unused data and filling blank data with relevant data, and creating a few plots to showcase that Seattle has more days of rain but St. Louis has more rain from the days that it does rain. Further and a more in depth conclusion can be viewed at [Communication Document](https://github.com/varelandrew/Seattle-Weather/blob/main/AndrewVarela_Communication_SeattleWeather.pdf) and [Analysis Notebook](https://github.com/varelandrew/Seattle-Weather/blob/main/Andrew_Varela_DATA_3320_Seattle_St_Louis_Analysis_Template.ipynb).
@@ -34,13 +31,3 @@ Here you can find the cleaned csv file: [Clean Data](https://github.com/vareland
 
 # License
 - The owner of this project grants permission to use and reuse information from this repository, but does not allow changing of contents in any way.
-
-X REMOVE # Data Analysis
-- What steps did I take to analyze the cleaned up data set from the previous steps above?
-1. I first imported necessary librarys and loaded the cleaned data set.
-2. I then reviewed the contents of the data set to familiarize myself with the data
-3. To analyze the data I needed to state a few questions that needed to be answered.
-4. Once I figured out what questions needed to be answered I proceeded to plot the data into different visualizations that helped me answer my previous questions.
-5. I was then able to finalize my results for a future communication assignment and write a quick conclusion based on my findings.
-
-Here you can find the python file that follows these steps I listed: [Data Analysis File](https://github.com/varelandrew/Seattle-Weather/blob/main/Andrew_Varela_DATA_3320_Seattle_St_Louis_Analysis_Template.ipynb)
